@@ -4,7 +4,7 @@
 --------------------------------
 #### 下载【shadowsocks-windows】软件 [微软点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-windows.zip)
 --------------------------------
-#### 下载【shadowsocks-iphone/ipad】软件 [苹果点击在线下载安装](https://i.ss-ssr.com)
+#### 下载【shadowsocks-iphone/ipad】软件 [苹果美区账户登录商店下载安装](http://freeid.xyz/)
 --------------------------------
 #### 下载【shadowsocks-mac】软件 [Mac点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-mac.zip)
 --------------------------------
